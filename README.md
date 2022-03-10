@@ -1,2 +1,2 @@
-# Front
-Repositório para projetos pessoais em HTML, CSS e JavaScript!
+# Front-End
+Repositório para projetos do curso danki.code em HTML, CSS e JavaScript!
